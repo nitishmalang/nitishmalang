@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitishmalang
-- 👀 I’m interested in ...Cyber Security/Penetration testing
-- 🌱 I’m currently learning ...Blockchain/Pentesting/linux
-- 💞️ I’m looking to collaborate on ...Open source Cyber programs
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning ...web dev/devops?data Science
+- 💞️ I’m looking to collaborate on ...Open source programs
 - 📫 How to reach me ...twitter - @nitish_malang
 
 <!---
